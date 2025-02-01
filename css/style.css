@@ -170,6 +170,10 @@ body.contact{
 	.Product .section ul {
 	  margin-left: 0px;
 	}
+	.Product .section li { /* body.Product内のsection liに適用 */
+		margin-bottom: 10px;
+		margin: auto;
+	  }
   }
   
 
